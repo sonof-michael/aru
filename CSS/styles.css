@@ -10,7 +10,7 @@ body {
     height: 100vh;
     
     margin: 0;
-    background-image: url('bitcoin.png');
+    background-image: url('../Images/bitcoin.png');
     background-size: cover;
 }
 header{
@@ -109,7 +109,7 @@ nav ul li a {
     position: absolute;
     width: 30px;
     height: 30px;
-    background-image: url('+1.webp'); /* Replace with the URL of your coin image */
+    background-image: url('../Images/+1.webp'); /* Replace with the URL of your coin image */
     background-size: cover;
     opacity: 1;
     animation: fly 2s ease-out forwards;
